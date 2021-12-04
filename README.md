@@ -43,5 +43,6 @@ I will be adding new projects (that are currently private 🕵️‍♂️) to m
   <img alt="Windows" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" />
 </a>
 
-<br>
-*Being written ... ✏*
+---
+
+*Being written ...* ✏
