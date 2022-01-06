@@ -2,45 +2,44 @@
 
 I'm currently studying CS at [IUT MTP-Sète](https://iut-montpellier-sete.edu.umontpellier.fr/dut-informatique/).
 
-I will be adding new projects (that are currently private 🕵️‍♂️) to my account soon.
-<details>
-  <summary>Projects spoilers 🔜</summary>
-  Docker images, Unity games, React.js / Nuxt.js apps and Java projects…
-</details>
+I will be adding new projects (working on it...) to my account soon.
 
 ---
 
-## Languages:
+## Skills:
 <a href="#">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" height="40" />
 </a>
 <a href="#">
-  <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="JS" src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black&style=flat" height="40" />
 </a>
 <a href="#">
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/--A8B9CC?logo=c&logoColor=white&style=flat" height="40" />
 </a>
 <a href="#">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/--239120?logo=csharp&logoColor=white&style=flat" height="40" />
+</a>
+<a href="#">
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" height="40" />
 </a>
 
 ## Editors/App:
 <a href="#">
-  <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img alt="Intellij" src="https://img.shields.io/badge/-Idea-000000?style=flat&logo=intellij-idea&logoColor=white" height="40" />
 </a>
 <a href="#">
-  <img alt="Intellij" src="https://img.shields.io/badge/IntelliJIDEA-0082fc?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="40" />
 </a>
 <a href="#">
-  <img alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Unity" src="https://img.shields.io/badge/-Unity-FFFFFF?style=flat&logo=unity&logoColor=black" height="40" />
 </a>
 
 ## OS:
 <a href="#">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-E95420?style=flat&logo=linux&logoColor=white" height="40" />
 </a>
 <a href="#">
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white" height="40" />
 </a>
 
 ---
