@@ -1,4 +1,4 @@
-## Hi 👋 i'm Rotashin
+## Hi 👋
 
 I'm currently studying CS at [IUT MTP-Sète](https://iut-montpellier-sete.edu.umontpellier.fr/dut-informatique/).
 
