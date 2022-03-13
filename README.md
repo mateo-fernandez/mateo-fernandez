@@ -17,7 +17,7 @@ I will be adding new projects (working on it...) to my account soon.
   <img alt="C" src="https://img.shields.io/badge/--A8B9CC?logo=c&logoColor=white&style=flat" height="40" />
 </a>
 <a href="#">
-  <img alt="PHP" src="https://img.shields.io/badge/--777BB3?logo=php&logoColor=white&style=flat" height="40" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB3?logo=php&logoColor=white&style=flat" height="40" />
 </a>
 <a href="#">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" height="40" />
