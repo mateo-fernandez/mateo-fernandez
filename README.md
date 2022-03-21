@@ -1,46 +1,52 @@
-## Hi 👋
+## 👋 Hi
 
-I'm currently studying CS at [IUT MTP-Sète](https://iut-montpellier-sete.edu.umontpellier.fr/dut-informatique/).
+<p>
+  <div align="center">Enjoys thinking of simple solutions for complicated problems.</div>
+  <div align="center">I'm currently studying CS at <a href="https://iut-montpellier-sete.edu.umontpellier.fr/dut-informatique/">IUT MTP-Sète</a>.</div>
+</p>
 
-I will be adding new projects (working on it...) to my account soon.
+<p align="center">
+  <a href="https://github.com/mateo-fernandez?tab=followers">
+    <img alt="Friends" src="https://img.shields.io/github/followers/mateo-fernandez?style=for-the-badge" height="35" />
+  </a>
+  <img alt="smth" src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg" height="35" />
+</p>
 
 ---
 
-## Skills:
-<a href="#">
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" height="40" />
-</a>
-<a href="#">
-  <img alt="JS" src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black&style=flat" height="40" />
-</a>
-<a href="#">
-  <img alt="C" src="https://img.shields.io/badge/--A8B9CC?logo=c&logoColor=white&style=flat" height="40" />
-</a>
-<a href="#">
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB3?logo=php&logoColor=white&style=flat" height="40" />
-</a>
-<a href="#">
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" height="40" />
-</a>
-
-## Editors/App:
-<a href="#">
-  <img alt="Intellij" src="https://img.shields.io/badge/-Idea-000000?style=flat&logo=intellij-idea&logoColor=white" height="40" />
-</a>
-<a href="#">
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="40" />
-</a>
-<a href="#">
-  <img alt="Unity" src="https://img.shields.io/badge/-Unity-FFFFFF?style=flat&logo=unity&logoColor=black" height="40" />
-</a>
-
-## OS:
-<a href="#">
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-E95420?style=flat&logo=linux&logoColor=white" height="40" />
-</a>
-<a href="#">
-  <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white" height="40" />
-</a>
+## 📜️ Skills
+<div>
+  <a href="#">
+    <img alt="C" src="https://img.shields.io/badge/-language-A8B9CC?logo=c&logoColor=white&style=for-the-badge" height="40" />
+  </a>
+  <a href="#">
+    <img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" height="40" />
+  </a>
+  <a href="#">
+    <img alt="Scala" src="https://img.shields.io/badge/-Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" height="40" />
+  </a>
+  <a href="#">
+    <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="40" />
+  </a>
+  <a href="#">
+    <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="40" />
+  </a>
+</div>
+<div>
+  <a href="#">
+    <img alt="JS" src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" />
+  </a>
+  <a href="#">
+    <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB3?logo=php&logoColor=white&style=for-the-badge" height="40" />
+  </a>
+  <a href="#">
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" />
+  </a>
+  <a href="#">
+    <img alt="Unity" src="https://img.shields.io/badge/-Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" height="40" />
+  </a>
+</div>
+<br>
 
 ---
 
