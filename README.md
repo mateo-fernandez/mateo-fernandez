@@ -1,8 +1,11 @@
 ## 👋 Hi
 
 <p>
-  <div align="center">Enjoys thinking of simple solutions for complicated problems.</div>
-  <div align="center">I'm currently studying CS at <a href="https://iut-montpellier-sete.edu.umontpellier.fr/dut-informatique/">IUT MTP-Sète</a>.</div>
+  <div align="center">Enjoy thinking of simple solutions for complicated problems.</div>
+  <div align="center">
+    I'm currently studying CS at <a href="https://iut-montpellier-sete.edu.umontpellier.fr/dut-informatique/">IUT MTP-Sète</a>.
+    Soon <a href="https://www.polytech.umontpellier.fr/formation/cycle-ingenieur/devops">here</a>.
+  </div>
 </p>
 
 <p align="center">
@@ -14,10 +17,16 @@
 
 ---
 
+<p>
+  <img alt="Stats github" src="https://github-readme-stats.vercel.app/api?username=mateo-fernandez&count_private=true&show_icons=true&hide_rank=true&theme=vue&disable_animations=true"/>
+</p>
+
+---
+
 ## 📜️ Skills
 <div>
   <a href="#">
-    <img alt="C" src="https://img.shields.io/badge/-language-A8B9CC?logo=c&logoColor=white&style=for-the-badge" height="40" />
+    <img alt="C" src="https://img.shields.io/badge/-lang-A8B9CC?logo=c&logoColor=white&style=for-the-badge" height="40" />
   </a>
   <a href="#">
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" height="40" />
